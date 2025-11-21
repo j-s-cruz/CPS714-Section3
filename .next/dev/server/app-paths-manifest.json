@@ -1,0 +1,4 @@
+{
+  "/createChallenge/page": "app/createChallenge/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
